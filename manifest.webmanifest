@@ -1,0 +1,18 @@
+{
+  "name": "제주도 수학여행 일정표",
+  "short_name": "제주 수학여행",
+  "description": "2026 제주도 수학여행 D-Day와 일정",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#1746a2",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
